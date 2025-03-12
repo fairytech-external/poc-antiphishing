@@ -1,0 +1,4 @@
+framework module Moment {
+  header "Moment-Swift.h"
+  requires objc
+}
