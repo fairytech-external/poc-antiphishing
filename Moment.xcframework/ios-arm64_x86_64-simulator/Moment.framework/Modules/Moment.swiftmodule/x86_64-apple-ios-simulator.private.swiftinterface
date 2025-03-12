@@ -7,6 +7,7 @@ import CoreFoundation
 import CryptoKit
 import Darwin
 import Foundation
+import MachO
 import Network
 import NetworkExtension
 import OSLog
